@@ -1,0 +1,18 @@
+[
+  {
+    "package": "nadir",
+    "url": "https://github.com/nshlab/nadir"
+  },
+  {
+    "package": "haldensify",
+    "url": "https://github.com/nshlab/haldensify"
+  },
+  {
+    "package": "txshift",
+    "url": "https://github.com/nshlab/txshift"
+  },
+  {
+    "package": "medoutcon",
+    "url": "https://github.com/nshlab/medoutcon"
+  }
+]
